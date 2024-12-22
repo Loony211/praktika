@@ -1,0 +1,183 @@
+:: StoryTitle
+practika
+
+
+:: StoryData
+{
+  "ifid": "AA5762D6-C249-423F-BF83-E77890051FA0",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "start",
+  "zoom": 1
+}
+
+
+:: 1 {"position":"225,100","size":"100,100"}
+холодное утро декабря,7:50 утра.
+	в комнате раздаются первые звуки,это звенит будильник
+''пора вставать!''
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%BE%D0%BA%D0%BD%D0%BE.jpg?raw=true" width=800" height="500">
+|=
+(b4r:"inset")+(b4r-colour:orange)[[''поспать еще пару минут''|1.1]]
+|=
+(b4r:"inset")+(b4r-colour:orange)[[''перебороть желание сна,и встать''|2]]
+|=|
+
+
+:: 1.1 {"position":"350,25","size":"100,100"}
+(text-style: "shudder")[(text-colour:red)[''я уснул и проспал начало смены'']]
+
+[[далее|3]]
+
+
+:: 2 {"position":"350,175","size":"100,100"}
+это было не легко,но переборов желание сна я встал с кровати и пошел умываться.
+
+Позавтракав я собрался и вышел из дома.
+
+(text-colour:orange)[[далее|3]]
+
+
+
+
+:: 3 {"position":"525,100","size":"100,100"}
+на улице было довольно тихо и прохладно
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%BF%D1%83%D1%82%D1%8C.png?raw=true" width=800" height="500">
+до заведения я дошел довольно быстро и без происшествий
+
+(text-colour:orange)[[далее|4]]
+
+
+
+
+:: 4 {"position":"650,100","size":"100,100"}
+прийдя на смену я переоделся и приступил к заготовке салатов.
+
+|=
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%BB%D0%B0%D1%82%201.jpg?raw=true" width=500" height="700">
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%BB%D0%B0%D1%82%202.jpg?raw=true" width=500" height="700">
+|=|
+|=
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BC%D0%B0%D1%80%D0%BA.jpg?raw=true" width=500" height="300">
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0.jpg?raw=true" width=500" height="300">
+|=|
+|=
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD.jpg?raw=true" width=500" height="700">
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%BB%D0%B0%D1%82%20%D0%B8%D1%82%D0%BE%D0%B3.jpg?raw=true" width=500" height="700">
+
+(text-colour:orange)[[далее|5]]
+
+
+:: 5 {"position":"775,100","size":"100,100"}
+выполнив задание я еще немного поработал и наступило время обеда
+перед мной стоял выбор,что взять на обед
+
+|=
+''пицца маргарита''
+состав:
+сыр моцарелла
+помидоры
+||=
+''пицца пеперони''
+сыр моцарелла
+пеперони
+|=|
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%BC%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0.png?raw=true" width=300" height="300"> 
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%BF%D0%B5%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%B8.png?raw=true" width=300" height="300">
+
+(align:"=><=")+(box:"X=")[''что же выбрать?'']
+|=
+(t8n: "pulse")[[[маргарита|5.1]]]
+||=
+(t8n: "pulse")[[[пеперони|6]]]
+|=|
+
+
+:: 5.1 {"position":"900,25","size":"100,100"}
+(text-colour:red)[''Я съел пиццу и мне стало плохо,т.к там были помидоры
+оставшийся день я провел голодный и в плохом настроении...'']
+
+но вот что могло бы быть,выбрав я правильную пиццу...
+(text-colour:orange)[[далее|6]]
+
+
+:: 6 {"position":"900,200","size":"100,100"}
+Вкусно пообедав я отправился выполнять следуещее задание,вместе с
+Максимом//(мой новый друг,работающий в этом заведении)//
+
+Нам предстояло снять количество остатков продукции и занести эти данные в базу
+
+C этим заданием мы легко и быстро справились
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%B8.jpg?raw=true" width="800" height="1000"> 
+
+(text-colour:orange)[[далее|7]]
+
+
+:: 7 {"position":"1075,100","size":"100,100"}
+Вот и подходит мой рабочий день к концу,я хорошо постарался в этот день.
+теперь мне предстоит прийти домой и сделать сайт о том как я проходил практику
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%B8%D0%B4%D1%83%20%D0%B4%D0%BE%D0%BC%D0%BE%D0%B9.jpg?raw=true" width=700" height="500">
+(text-colour:blue)[[отправиться домой|дом]]
+
+
+:: start {"position":"100,100","size":"100,100"}
+(align:"=><=")+(box:"XXXXX=")[''Один день из практики'']
+||=
+История одного увлекательного дня на практике,наполненого различными задачами.
+
+О персонаже.
+
+Артём
+17 лет
+любит поспать
+легко отвлекается на развлечения
+аллергия на помидоры
+
+||=
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%B4%D0%BE%D0%B4%D0%BE.jpg?raw=true" width=600" height="400">
+
+|=|
+(text-colour:orange)[[начать|1]]
+
+
+:: дом {"position":"900,400","size":"100,100"}
+Дома я написал шаблоны трех страниц и CSS файла,а затем при помощи чатаGPT немного отредактировал их до того вида,который я хотел получить
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D1%81%D0%B0%D0%B9%D1%82_%D0%BA%D0%BE%D0%B4.jpg?raw=true" width="1000" height="400">
+
+(text-colour:blue)[[далее|дом 1]]
+
+
+:: дом 1 {"position":"700,400","size":"100,100"}
+Затем мне необходимо было где-то выложить свою работу,
+мой выбор пал на сайт с бесплатными доменами - BEGET
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(13).png?raw=true" width="1000" height="500">
+
+(text-colour:blue)[[далее|дом 2]]
+
+
+:: дом 2 {"position":"500,400","size":"100,100"}
+зарегистрировавшись на сайте я загрузил файлы и связал их с полученным доменом
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(14).png?raw=true" width="1000" height="500">
+
+таким образом я смог опубликовать свой сайт.
+
+(text-colour:blue)[[далее|итог]]
+
+
+:: итог {"position":"100,300","size":"100,100"}
+За время практики я узнал много нового и обзавелся большим количеством новых знакомств.
+Это было не только очень продуктивное время обучения,но и очень весёлое и разнообразное.
+
+<img src="https://github.com/Loony211/praktika/blob/main/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0.jpg?raw=true" width="1000" height="700">
+
+(text-colour:blue)[[вернуться в начало|start]]
